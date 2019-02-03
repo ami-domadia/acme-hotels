@@ -1,0 +1,22 @@
+{
+  "name": "acemusers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "html-template-tag": "^1.0.0",
+    "morgan": "^1.9.1",
+    "node-time-ago": "^1.0.0",
+    "pg": "^7.8.0"
+  }
+}
